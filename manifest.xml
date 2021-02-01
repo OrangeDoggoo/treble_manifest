@@ -11,8 +11,4 @@
 
 
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="master" />
-  
-<!-- exfat support -->
-<remote name="relan" fetch="https://github.com/relan/" />
-<project path="external/exfat" name="exfat" remote="relan" revision="master" />
 </manifest>
